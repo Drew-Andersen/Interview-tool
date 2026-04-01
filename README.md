@@ -1,6 +1,9 @@
 # AI Interview Coach
 An AI-powered interview simulator build with Streamlit and OpenAI that helps users practice real interview scenarios, receive structured feedback, and improve their performance.
 
+## Deployed Link
+https://interview-tool-fyyqoruyydqzj2fhfggxyq.streamlit.app/
+
 ## Features
 ### Personalized Interview Setup
 - Input you **name, experience, and skills**
